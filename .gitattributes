@@ -1,4 +1,2 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
-tk.png filter=lfs diff=lfs merge=lfs -text
-《Ideas[[:space:]]for[[:space:]]IELTS[[:space:]]topics》.pdf filter=lfs diff=lfs merge=lfs -text
